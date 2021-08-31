@@ -46,8 +46,8 @@ TBC
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### National University of Singapore
-Masters in Business Analytics, 2015-2016
+##### TBC
+TBC, 2015-2016
 
 
 ##### Manipal Institute of Technology
