@@ -44,7 +44,7 @@ TBC
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
+##### TBC
  Graduate 2010-14, 
 
 <!-- EDUCATION Section Ends -->
