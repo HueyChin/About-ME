@@ -15,11 +15,7 @@ I'm Huey Chin, Business and Data Analytics graduate from Digital BCG Academy RIS
 
 I completed 4 industry-based projects and 3 mini projects with skills in agile, business intelligence, design thinking, structured problem solving, business communication, business analytics, data analytics, dashboard design and machine learning algorithms. I am particularly enthusiastic about machine learning and I want to use this passion for good in the business and societal spheres. 
 
-<!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+<!-- Add link to the sections --> 
 
 <!-- ABOUT Section Ends -->
 
