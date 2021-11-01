@@ -79,7 +79,7 @@ BCG RISE Project 2 - Perform EDA and statistical A/B Test using CEO’s hypothes
 
 ---
 > ### <a id='1'></a><h2> Visualisation Dashboard for Operational Process Project (Global Automotive Seating Company)</h2></a>
-<img src = "https://github.com/HueyChin/Projects/blob/main/Performance%20dashboard.PNG" width="300" height="800">
+<img src = "https://github.com/HueyChin/Projects/blob/main/Performance%20dashboard.PNG" width="500" height="1000">
 BCG RISE Project 1 - Build a performance dashboard using Power BI to track plant's major KPIs operational process.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Visualisation%20Dashboard%20for%20Operational%20Process%20Project%20(Global%20Automotive%20Seating%20Company).pbix">Click here to view codebase</a> <br>
 
