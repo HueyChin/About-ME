@@ -23,7 +23,7 @@ I completed 4 industry-based projects and 3 mini projects with skills in agile, 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE <br> 
+### EXPERIENCE
 <!-- Add your details -->
 I was a experienced consultant / associate with a demonstrated history of working in multi-national corporate travel industry. Strong operation, customer service, coordination professional. Demonstrated various initiatives to improve operation. Conceptualized and designed better work flow. Possessed practical experience in project management. Excellent team player with a reputation for resolving problem.
 
@@ -42,7 +42,7 @@ Jul-2015 to Jun-2016
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION <br>
+### EDUCATION
 <!-- Add your details -->
 ##### Business and Data Analytics (Full time)
 Digital BCG Academy <br> 
@@ -57,18 +57,18 @@ Universiti Utara Malaysia <br>
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-##### Machine Learning for Churn Prediction (SEA Telecom Provider)
+#### Machine Learning for Churn Prediction (SEA Telecom Provider)
 <img src = "https://github.com/HueyChin/Projects/blob/main/Lift%20curve.PNG" width="500" height="300">
 BCG RISE Project 3 - Build a Classification model to predict churners one month in advance, identify key drivers that impact to the churn rate and top 20% of churners with monthly revenue.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20Churn%20Prediction%20(SEA%20Telecom%20Provider).ipynb">Click here to view codebase</a> <br>
 
-##### Statistical Analysis and Hypothesis Testing Project (Mobile Puzzle Game)
+#### Statistical Analysis and Hypothesis Testing Project (Mobile Puzzle Game)
 <img src = "https://github.com/HueyChin/Projects/blob/main/Retention1.PNG" width="500" height="300">
 <img src = "https://github.com/HueyChin/Projects/blob/main/Retention7.PNG" width="500" height="300">
 BCG RISE Project 2 - Perform EDA and statistical A/B Test using CEO’s hypothesis that moving the first gate from level 30 to 40 did not increase retention rate and number of game rounds.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Statistical%20Analysis%20and%20Hypothesis%20Testing%20Project%20(Mobile%20Puzzle%20Game).ipynb">Click here to view codebase</a> <br>
 
-##### Visualisation Dashboard for Operational Process Project (Global Automotive Seating Company)
+#### Visualisation Dashboard for Operational Process Project (Global Automotive Seating Company)
 <img src = "https://github.com/HueyChin/Projects/blob/main/Performance%20dashboard.PNG" width="1000" height="1000">
 BCG RISE Project 1 - Build a performance dashboard using Power BI to track plant's major KPIs operational process.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Visualisation%20Dashboard%20for%20Operational%20Process%20Project%20(Global%20Automotive%20Seating%20Company).pbix">Click here to view codebase</a> <br>
@@ -76,7 +76,7 @@ BCG RISE Project 1 - Build a performance dashboard using Power BI to track plant
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+### FEATURED
 <!-- Add your details -->
 #### Certifications
 [BCG RISE Certificate of Completion Business and Data Analytics Program completed with Merit](https://www.credly.com/badges/6aa7eb55-ae95-4461-85a7-491ac7295cae/) <br>
