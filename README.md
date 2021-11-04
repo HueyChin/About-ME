@@ -58,7 +58,7 @@ Universiti Utara Malaysia <br>
 ### PROJECTS
 <!-- Add your details -->
 #### Machine Learning for Churn Prediction (SEA Telecom Provider)
-<img src = "https://github.com/HueyChin/Projects/blob/main/Lift%20curve.PNG" width="500" height="300">
+<img src = "https://github.com/HueyChin/Projects/blob/main/Lift%20curve.PNG" width="1000" height="300">
 BCG RISE Project 3 - Build a Classification model to predict churners one month in advance, identify key drivers that impact to the churn rate and top 20% of churners with monthly revenue.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20Churn%20Prediction%20(SEA%20Telecom%20Provider).ipynb">Click here to view codebase</a> <br>
 
