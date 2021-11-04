@@ -27,11 +27,11 @@ Over the last few months, I have completed four industry-driven projects and thr
 <!-- Add your details -->
 I was a experienced consultant / associate with a demonstrated history of working in multi-national corporate travel industry. Strong operation, customer service, coordination professional. Demonstrated various initiatives to improve operation. Conceptualized and designed better work flow. Possessed practical experience in project management. Excellent team player with a reputation for resolving problem.
 
-#### Senior Corporate Consultant (2 year 3 Months)
+#### Senior Corporate Consultant (2 years 3 Months)
 CWT <br> 
 Jun-2018 to Aug-2020 
 
-#### Corporate Travel Counselor (2 year)
+#### Corporate Travel Counselor (2 years)
 GBT <br> 
 Jun-2016 to May-2018 
 
