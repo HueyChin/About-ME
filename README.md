@@ -63,6 +63,8 @@ BCG RISE Project 3 - Build a Classification model to predict churners one month 
 <a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20Churn%20Prediction%20(SEA%20Telecom%20Provider).ipynb">Click here to view codebase</a> <br>
 
 #### Statistical Analysis and Hypothesis Testing Project (Mobile Puzzle Game)
+<img src = "https://github.com/HueyChin/Projects/blob/main/User%20drop%20rates.PNG" width="500" height="300"> <br>
+
 Day1 retention rate <br> 
 <img src = "https://github.com/HueyChin/Projects/blob/main/Retention1.PNG" width="500" height="300">
 
