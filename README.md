@@ -64,19 +64,19 @@ BCG RISE Project 3 - Build a Classification model to predict churners one month 
 <a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20Churn%20Prediction%20(SEA%20Telecom%20Provider).ipynb">Click here to view codebase</a> <br>
 
 #### Statistical Analysis and Hypothesis Testing Project (Mobile Puzzle Game)
-![alt text] <img src = "https://github.com/HueyChin/Projects/blob/main/User%20drop%20rates.PNG" width="1000" height="300"> <br>
+![alt text](https://github.com/HueyChin/Projects/blob/main/User%20drop%20rates.PNG) <br>
 
 Day1 retention rate <br> 
-![alt text] <img src = "https://github.com/HueyChin/Projects/blob/main/Retention1.PNG" width="500" height="300">
+![alt text](https://github.com/HueyChin/Projects/blob/main/Retention1.PNG)
 
 Day7 retention rate <br> 
-![alt text] <img src = "https://github.com/HueyChin/Projects/blob/main/Retention7.PNG" width="500" height="300">
+![alt text](https://github.com/HueyChin/Projects/blob/main/Retention7.PNG)
 
 BCG RISE Project 2 - Perform EDA and statistical A/B Test using CEO’s hypothesis that moving the first gate from level 30 to 40 did not increase retention rate and number of game rounds.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Statistical%20Analysis%20and%20Hypothesis%20Testing%20Project%20(Mobile%20Puzzle%20Game).ipynb">Click here to view codebase</a> <br>
 
 #### Visualisation Dashboard for Operational Process Project (Global Automotive Seating Company)
-![alt text] <img src = "https://github.com/HueyChin/Projects/blob/main/Performance%20dashboard.PNG" width="1000" height="1000">
+![alt text](https://github.com/HueyChin/Projects/blob/main/Performance%20dashboard.PNG)
 
 BCG RISE Project 1 - Build a performance dashboard using Power BI to track plant's major KPIs operational process.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Visualisation%20Dashboard%20for%20Operational%20Process%20Project%20(Global%20Automotive%20Seating%20Company).pbix">Click here to view codebase</a> <br>
