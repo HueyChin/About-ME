@@ -25,7 +25,7 @@ Over the last few months, I have completed four industry-driven projects and thr
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-I was a experienced consultant / associate with a demonstrated history of working in multi-national corporate travel industry. Strong operation, customer service, coordination professional. Demonstrated various initiatives to improve operation. Conceptualized and designed better work flow. Possessed practical experience in project management. Excellent team player with a reputation for resolving problem.
+I was an experienced consultant / associate with a demonstrated history of working in multi-national corporate travel industry. Strong operation, customer service, coordination professional. Demonstrated various initiatives to improve operation. Conceptualized and designed better work flow. Possessed practical experience in project management. Excellent team player with a reputation for resolving problem.
 
 #### Senior Corporate Consultant (2 years 3 Months)
 CWT <br> 
