@@ -64,19 +64,19 @@ BCG RISE Project 3 - Build a Classification model to predict churners one month 
 <a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20Churn%20Prediction%20(SEA%20Telecom%20Provider).ipynb">Click here to view codebase</a> <br>
 
 #### Statistical Analysis and Hypothesis Testing Project (Mobile Puzzle Game)
-![alt text](https://github.com/HueyChin/HueyChin/blob/61bf71d36956871f09bdf3b4aed2638fbb1fb821/User%20drop%20rates.PNG) <br>
+![alt text](https://user-images.githubusercontent.com/84428639/140434088-b8b6e9da-2724-4439-af10-7974fb07c302.PNG) <br>
 
 Day1 retention rate <br> 
-![alt text](https://github.com/HueyChin/HueyChin/blob/61bf71d36956871f09bdf3b4aed2638fbb1fb821/Retention1.PNG)
+![alt text](https://user-images.githubusercontent.com/84428639/140434085-9b07b842-7db2-4f09-b31c-72a280dd8fb5.PNG)
 
 Day7 retention rate <br> 
-![alt text](https://github.com/HueyChin/HueyChin/blob/61bf71d36956871f09bdf3b4aed2638fbb1fb821/Retention7.PNG)
+![alt text](https://user-images.githubusercontent.com/84428639/140434087-7a5b0fb1-5723-4f9e-ae78-7ca1bd7facd8.PNG)
 
 BCG RISE Project 2 - Perform EDA and statistical A/B Test using CEO’s hypothesis that moving the first gate from level 30 to 40 did not increase retention rate and number of game rounds.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Statistical%20Analysis%20and%20Hypothesis%20Testing%20Project%20(Mobile%20Puzzle%20Game).ipynb">Click here to view codebase</a> <br>
 
 #### Visualisation Dashboard for Operational Process Project (Global Automotive Seating Company)
-![alt text](https://github.com/HueyChin/HueyChin/blob/61bf71d36956871f09bdf3b4aed2638fbb1fb821/Performance%20dashboard.PNG)
+![alt text](https://user-images.githubusercontent.com/84428639/140434081-3a521bd0-6e9f-4cba-af82-64db597d2048.PNG)
 
 BCG RISE Project 1 - Build a performance dashboard using Power BI to track plant's major KPIs operational process.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Visualisation%20Dashboard%20for%20Operational%20Process%20Project%20(Global%20Automotive%20Seating%20Company).pbix">Click here to view codebase</a> <br>
