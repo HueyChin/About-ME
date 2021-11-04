@@ -67,10 +67,10 @@ BCG RISE Project 3 - Build a Classification model to predict churners one month 
 ![alt text](https://user-images.githubusercontent.com/84428639/140434088-b8b6e9da-2724-4439-af10-7974fb07c302.PNG) <br>
 
 Day1 retention rate <br> 
-<img src = "https://user-images.githubusercontent.com/84428639/140434085-9b07b842-7db2-4f09-b31c-72a280dd8fb5.PNG" width="600" height="400">
+<img src = "https://user-images.githubusercontent.com/84428639/140434085-9b07b842-7db2-4f09-b31c-72a280dd8fb5.PNG" width="500" height="300">
 
 Day7 retention rate <br> 
-<img src = "https://user-images.githubusercontent.com/84428639/140434087-7a5b0fb1-5723-4f9e-ae78-7ca1bd7facd8.PNG" width="600" height="400">
+<img src = "https://user-images.githubusercontent.com/84428639/140434087-7a5b0fb1-5723-4f9e-ae78-7ca1bd7facd8.PNG" width="500" height="300">
 
 BCG RISE Project 2 - Perform EDA and statistical A/B Test using CEO’s hypothesis that moving the first gate from level 30 to 40 did not increase retention rate and number of game rounds.<br>
 <a href="https://github.com/HueyChin/Projects/blob/main/Statistical%20Analysis%20and%20Hypothesis%20Testing%20Project%20(Mobile%20Puzzle%20Game).ipynb">Click here to view codebase</a> <br>
