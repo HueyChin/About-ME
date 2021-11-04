@@ -69,6 +69,8 @@ BCG RISE Project 3 - Build a Classification model to predict churners one month 
 Day1 retention rate <br> 
 ![alt text](https://user-images.githubusercontent.com/84428639/140434085-9b07b842-7db2-4f09-b31c-72a280dd8fb5.PNG)
 
+<img src = "https://user-images.githubusercontent.com/84428639/140434085-9b07b842-7db2-4f09-b31c-72a280dd8fb5.PNG" width="500" height="300">
+
 Day7 retention rate <br> 
 ![alt text](https://user-images.githubusercontent.com/84428639/140434087-7a5b0fb1-5723-4f9e-ae78-7ca1bd7facd8.PNG)
 
