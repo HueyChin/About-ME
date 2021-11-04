@@ -12,7 +12,7 @@
 
 I'm Huey Chin, Business and Data Analytics graduate from Digital BCG Academy RISE program. RISE (Rapid & Immersive Skill Enhancement) is a 6-months program designed to enhance employability by leveraging BCG's industry experts in building high demand business and digital skills. BCG (Boston Consulting Group) is a global management consulting firm, a pioneer and thought leader in business strategy.
 
-I completed 4 industry-based projects and 3 mini projects with skills in agile, business intelligence, design thinking, structured problem solving, business communication, business analytics, data analytics, dashboard design and machine learning algorithms. I am particularly enthusiastic about machine learning and I want to use this passion for good in the business and societal spheres. 
+Over the last few months, I have completed four industry-driven projects and three mini projects with skills in agile, business intelligence, design thinking, structured problem solving, business communication, business analytics, data analytics, dashboard design, and machine learning algorithms. As someone specifically interested in machine learning, I aim to apply this passion to the business and societal spheres. 
 
 <!-- Add link to the sections --> 
 [Experience](#experience) <br>
