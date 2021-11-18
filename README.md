@@ -58,7 +58,7 @@ Universiti Utara Malaysia <br>
 ### PROJECTS
 <!-- Add your details -->
 
-#### Machine Learning for time series predicition (Seaport Provider)
+#### Machine Learning for time series prediction (Seaport Provider)
 ![alt text](https://user-images.githubusercontent.com/84428639/142361328-021ed469-b2a6-48c0-8489-a2b86a0ae36c.png)
 
 BCG RISE industry base project - Build a time series model to predict number of incoming container one week in advance. 
