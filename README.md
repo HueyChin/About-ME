@@ -57,6 +57,17 @@ Universiti Utara Malaysia <br>
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
+
+#### Machine Learning for time series predicition (Seaport Provider)
+![alt text](https://user-images.githubusercontent.com/84428639/142361328-021ed469-b2a6-48c0-8489-a2b86a0ae36c.png)
+
+BCG RISE industry base project - Build a time series model to predict number of incoming container one week in advance. 
+
+![alt text](https://user-images.githubusercontent.com/84428639/142361322-3db06fc9-6e38-4a81-9f3f-8d9dc745a74d.png)
+![alt text](https://user-images.githubusercontent.com/84428639/142361326-408ff3b0-18d1-4ebb-bede-38eff4554518.png)
+
+Classifier Model for vessel dwell time with threshore 
+
 #### Machine Learning for Churn Prediction (SEA Telecom Provider)
 ![alt text](https://user-images.githubusercontent.com/84428639/140434077-75790ab3-6eba-47f8-aa5f-db5f4652ee44.PNG)
 
