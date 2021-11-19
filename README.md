@@ -67,6 +67,7 @@ BCG RISE industry base project - Build a time series model to predict number of 
 ![alt text](https://user-images.githubusercontent.com/84428639/142361326-408ff3b0-18d1-4ebb-bede-38eff4554518.png)
 
 Classifier Model for vessel dwell time with threshore 
+<a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20time%20series%20(Seaport%20Provider).ipynb">Click here to view codebase</a> <br>
 
 #### Machine Learning for Churn Prediction (SEA Telecom Provider)
 ![alt text](https://user-images.githubusercontent.com/84428639/140434077-75790ab3-6eba-47f8-aa5f-db5f4652ee44.PNG)
