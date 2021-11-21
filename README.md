@@ -59,15 +59,15 @@ Universiti Utara Malaysia <br>
 <!-- Add your details -->
 
 #### Machine Learning for time series prediction (Seaport Provider)
-![alt text](https://user-images.githubusercontent.com/84428639/142361328-021ed469-b2a6-48c0-8489-a2b86a0ae36c.png)
+![alt text](https://user-images.githubusercontent.com/84428639/142782571-9bc6dbdf-a6c1-4335-b2ab-ea4893673d0d.png)
 
 BCG RISE industry base project - Build a time series model to predict number of incoming container one week in advance. 
 
-![alt text](https://user-images.githubusercontent.com/84428639/142361322-3db06fc9-6e38-4a81-9f3f-8d9dc745a74d.png)
-![alt text](https://user-images.githubusercontent.com/84428639/142361326-408ff3b0-18d1-4ebb-bede-38eff4554518.png)
+![alt text](https://user-images.githubusercontent.com/84428639/142782568-dab135b8-18ff-4f44-8526-ae8ecfceca73.png)
+![alt text](https://user-images.githubusercontent.com/84428639/142782570-afe25d12-f1f5-49bb-8d79-21c146b287da.png)
 
 Classifier Model for vessel dwell time with threshore <br>
-<a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20time%20series%20(Seaport%20Provider).ipynb">Click here to view codebase</a> <br>
+<a href="https://github.com/HueyChin/Projects/blob/main/Machine%20Learning%20for%20time%20series%20(Seaport%20Provider)-1mil_data.ipynb">Click here to view codebase</a> <br>
 
 #### Machine Learning for Churn Prediction (SEA Telecom Provider)
 ![alt text](https://user-images.githubusercontent.com/84428639/140434077-75790ab3-6eba-47f8-aa5f-db5f4652ee44.PNG)
