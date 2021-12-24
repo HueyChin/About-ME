@@ -29,15 +29,15 @@ I was an experienced consultant / associate with a demonstrated history of worki
 
 #### Senior Corporate Consultant (2 years 3 Months)
 CWT <br> 
-Jun-2018 to Aug-2020 
+2018 to 2021 
 
 #### Corporate Travel Counselor (2 years)
 GBT <br> 
-Jun-2016 to May-2018 
+2016 to 2018 
 
 #### Corporate Travel Executive
 Pacific Arena Pte Ltd <br> 
-2012 to Jun-2016 
+2013 to 2016 
 
 <!-- EXPERIENCE Section Ends -->
 
