@@ -35,7 +35,7 @@ Jun-2018 to Aug-2020
 GBT <br> 
 Jun-2016 to May-2018 
 
-#### Corporate Travel Executive (1 year)
+#### Corporate Travel Executive
 Pacific Arena Pte Ltd <br> 
 2012 to Jun-2016 
 
