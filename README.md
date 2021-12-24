@@ -37,7 +37,7 @@ Jun-2016 to May-2018
 
 #### Corporate Travel Executive (1 year)
 Pacific Arena Pte Ltd <br> 
-Jul-2015 to Jun-2016 
+2012 to Jun-2016 
 
 <!-- EXPERIENCE Section Ends -->
 
