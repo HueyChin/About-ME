@@ -44,11 +44,11 @@ Pacific Arena Pte Ltd <br>
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### Business and Data Analytics (Full time)
+#### Business and Data Analytics (Full time)
 Digital BCG Academy <br> 
 Feb-2021 to Aug-2021
 
-##### Bachelor’s Degree with Honours, Tourism and Travel Services Management (Full time)
+#### Bachelor’s Degree with Honours, Tourism and Travel Services Management (Full time)
 Universiti Utara Malaysia <br> 
 2008 to 2011
 
